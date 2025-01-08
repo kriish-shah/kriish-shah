@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hey👋! I am Krish.</h2>
+<h2 align="center">Hey there👋! I am Krish.</h2>
 
 ###
 
@@ -79,10 +79,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/kriish-shah/kriish-shah/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="right">
   <img height="25" src="https://camo.githubusercontent.com/164c3a5022547a644063091e3501dc69e412b3b9b4696037b0cd981032d0daff/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d737761672e737667"  />
